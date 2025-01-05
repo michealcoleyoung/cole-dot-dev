@@ -1,10 +1,10 @@
 # Database Setup
 
-- [ ] Create a notes table in your notes.db
+- [x] Create a notes table in your notes.db
 
-- [ ] Define the basic structure (id, title, created_at)
+- [x] Define the basic structure (id, title, created_at)
 
-- [ ] Set up SQLAlchemy in your Flask app
+- [x] Set up SQLAlchemy in your Flask app
 
 # Backend Steps (app.py)
 
@@ -18,7 +18,7 @@
 
 # Frontend Steps (notes.js)
 
-- [ ] Modify the existing addNote() function to:
+Modify the existing addNote() function to:
 
 - [ ] Capture the note title from the form
 
@@ -57,3 +57,5 @@
 - [ ] Handle failed requests
 
 - [ ] Provide user feedback for actions
+
+
