@@ -58,4 +58,38 @@ Modify the existing addNote() function to:
 
 - [ ] Provide user feedback for actions
 
+# UI TODO
+
+### Visual Feedback
+
+- [ ] Highlight the selected note in the sidebar
+
+- [ ] Show a "Saving..." indicator when changes are being saved
+
+- [ ] Add success/error notifications
+
+### Form Field Management
+
+- [ ] Disable form fields when no note is selected
+
+- [ ] Clear form fields when a note is deleted
+
+- [ ] Add validation for important fields
+
+### Error Handling
+
+- [ ] Show user-friendly error messages
+
+- [ ] Handle network errors gracefully
+
+- [ ] Add retry logic for failed saves
+
+### UI Polish
+
+- [ ] Add loading states
+
+- [ ] Smooth transitions
+
+- [ ] Better mobile responsiveness
+
 
