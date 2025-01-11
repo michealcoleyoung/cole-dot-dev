@@ -62,7 +62,7 @@ Modify the existing addNote() function to:
 
 ### Visual Feedback
 
-- [ ] Highlight the selected note in the sidebar
+- [x] Highlight the selected note in the sidebar
 
 - [ ] Show a "Saving..." indicator when changes are being saved
 
