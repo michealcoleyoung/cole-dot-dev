@@ -8,11 +8,11 @@
 
 # Backend Steps (app.py)
 
-- [ ] Create a route to handle POST requests for new notes
+- [x] Create a route to handle POST requests for new notes
 
-- [ ] Create a route to handle GET requests to fetch existing notes
+- [x] Create a route to handle GET requests to fetch existing notes
 
-- [ ] Create a route to handle DELETE requests for removing notes
+- [x] Create a route to handle DELETE requests for removing notes
 
 - [ ] Set up proper error handling for these routes
 
@@ -70,7 +70,7 @@ Modify the existing addNote() function to:
 
 ### Form Field Management
 
-- [ ] Disable form fields when no note is selected
+- [x] Disable form fields when no note is selected
 
 - [ ] Clear form fields when a note is deleted
 
