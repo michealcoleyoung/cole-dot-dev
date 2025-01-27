@@ -1,2 +1,2 @@
-![Cole's Code Garden](images/coles-code-garden.svg)
+![Cole's Code Garden](Images/coles-code-garden.svg)
 This document includes all of my coding project notes using Obsidian. For each project you will find all of my personal notes, thought processes etc. that go into everything I build. Enjoy!
