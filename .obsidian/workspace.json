@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,8 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a99fd6fb6b1a0f67",
+  "active": "3e43925d608a7c60",
   "lastOpenFiles": [
+    "Images/coles-code-garden.png",
+    "coles-code-garden.png",
     "Images/coles-code-garden.svg",
     "README.md",
     "Images",
