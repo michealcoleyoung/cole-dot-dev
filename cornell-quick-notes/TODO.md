@@ -14,39 +14,39 @@
 
 - [x] Create a route to handle DELETE requests for removing notes
 
-- [ ] Set up proper error handling for these routes
+- [x] Set up proper error handling for these routes
 
 # Frontend Steps (notes.js)
 
 Modify the existing addNote() function to:
 
-- [ ] Capture the note title from the form
+- [x] Capture the note title from the form
 
-- [ ] Send a POST request to your backend
+- [x] Send a POST request to your backend
 
-- [ ] Handle the response
+- [x] Handle the response
 
-- [ ] Update the UI with the new note
+- [x] Update the UI with the new note
 
-- [ ] Add functionality to:
+Add functionality to:
 
-- [ ] Load existing notes when the page loads
+- [x] Load existing notes when the page loads
 
-- [ ] Handle note deletion
+- [x] Handle note deletion
 
-- [ ] Update the sidebar list
+- [x] Update the sidebar list
 
 # Testing Steps
 
-- [ ] Test adding a new note
+- [x] Test adding a new note
 
-- [ ] Verify it appears in the database
+- [x] Verify it appears in the database
 
-- [ ] Verify it appears in the sidebar
+- [x] Verify it appears in the sidebar
 
-- [ ] Test deleting a note
+- [x] Test deleting a note
 
-- [ ] Verify it's removed from both database and sidebar
+- [x] Verify it's removed from both database and sidebar
 
 # Error Handling
 
@@ -64,7 +64,7 @@ Modify the existing addNote() function to:
 
 - [x] Highlight the selected note in the sidebar
 
-- [ ] Show a "Saving..." indicator when changes are being saved
+- [x] Show a "Saving..." indicator when changes are being saved
 
 - [ ] Add success/error notifications
 
@@ -72,7 +72,7 @@ Modify the existing addNote() function to:
 
 - [x] Disable form fields when no note is selected
 
-- [ ] Clear form fields when a note is deleted
+- [x] Clear form fields when a note is deleted
 
 - [ ] Add validation for important fields
 
@@ -92,4 +92,6 @@ Modify the existing addNote() function to:
 
 - [ ] Better mobile responsiveness
 
+# Considerations
+Main points section will need to be configured as a bulleted list. Since this is a concise section in the Cornell Note Taking method I am thinking it would be good to set it to conenteditable so when the user types in a main key point and then they press enter it goes to the next bullet. The amount of main points the user can add will depend on what device they are on in terms of space that is available. The 3 main sections of this app that will have limited space in terms of what the user types will be in Main Points, Notes and Summary. Just like it would be if you were writing this information in a notebook. 
 
