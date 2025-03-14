@@ -53,17 +53,12 @@
             "id": "c7bb9ef984cc0043",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Images/test-canvas.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-image",
+              "title": "test-canvas"
             }
           }
         ],
@@ -220,10 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7bb9ef984cc0043",
+  "active": "3e43925d608a7c60",
   "lastOpenFiles": [
-    "README.md",
+    "Images/test-canvas.png",
     "Untitled.canvas",
+    "README.md",
     "Images/coles-code-garden.png",
     "Images/coles-code-garden.svg",
     "Images/cole-dot-dev.png",
