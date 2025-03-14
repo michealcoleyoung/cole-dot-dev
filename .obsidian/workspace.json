@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ascmii/project-description.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project-description"
-            }
-          },
-          {
-            "id": "c7bb9ef984cc0043",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/test-canvas.png"
-              },
-              "icon": "lucide-image",
-              "title": "test-canvas"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,20 +203,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e43925d608a7c60",
+  "active": "cf4e53534b5fb3b1",
   "lastOpenFiles": [
+    "ascmii/project-description.md",
     "Images/test-canvas.png",
     "Untitled.canvas",
     "README.md",
     "Images/coles-code-garden.png",
     "Images/coles-code-garden.svg",
-    "Images/cole-dot-dev.png",
-    "ascmii/project-description.md",
+    "images/cole-dot-dev.png",
     "cornell-quick-notes/project-description.md",
     "ascmii",
     "cornell-quick-notes/TODO.md",
     "conflict-files-obsidian-git.md",
-    "Images",
+    "images",
     "cornell-quick-notes"
   ]
 }
