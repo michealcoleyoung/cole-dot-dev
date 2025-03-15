@@ -39,14 +39,12 @@
             "id": "cf4e53534b5fb3b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "images/cole-dot-dev.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "cole-dot-dev"
             }
           }
         ],
@@ -203,10 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf4e53534b5fb3b1",
+  "active": "3e43925d608a7c60",
   "lastOpenFiles": [
     "images/cole-dot-dev.png",
     "README.md",
+    "images/cole-dot-dev.png",
     "ascmii/project-description.md",
     "Images/test-canvas.png",
     "Untitled.canvas",
