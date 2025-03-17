@@ -1,4 +1,4 @@
-This section is dedicated to recording my job progress. In an effort to make this as simple and practical as I can I only included the essentials which are the Date Applied, Company, Position, Source, Status, Result, Notes, Follow-Up and LinkedIn Easy Apply. 
+This section is dedicated to recording my job progress. In an effort to make this as simple and practical as I can I only included the essentials which are the Date Applied, Company, Position, Source, Status, Result, Notes, Follow-Up and Easy Apply. 
 
 | Date Applied | Company          | Position                       | Source                                                              | Status  | Result   | Notes | Follow-Up | Easy Apply |
 | ------------ | ---------------- | ------------------------------ | ------------------------------------------------------------------- | ------- | -------- | ----- | --------- | ---------- |
