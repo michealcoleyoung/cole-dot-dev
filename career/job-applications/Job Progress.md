@@ -12,5 +12,3 @@ This section is dedicated to recording my job progress. In an effort to make thi
 | 03/14/2025   | Canoncial    | Python Software Engineer    |                                                                     | Applied | No Offer |       | N/A       |                     |     |
 | 03/14/2025   | BlockTXM Inc | Healthcare Python Developer | https://shorturl.at/fp5Ig                                           |         |          |       |           |                     |     |
 |              |              |                             |                                                                     |         |          |       |           |                     |     |
-
-<iframe src="https://docs.google.com/spreadsheets/d/1RUAYaUvwWgn9qcQq1dN5Lai1Rkmf8lx1snxqB7woHGM/edit?usp=sharing" width="100%" height="1000px"></iframe>
