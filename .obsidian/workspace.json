@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "career/job-applications/Job Progress.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Job Progress"
+              "title": "README"
             }
           }
         ],
@@ -191,8 +191,8 @@
   },
   "active": "ed49f0e362e285d9",
   "lastOpenFiles": [
-    "career/job-applications/Strategy.md",
     "career/job-applications/Job Progress.md",
+    "career/job-applications/Strategy.md",
     "career/ideas",
     "README.md",
     "career",
