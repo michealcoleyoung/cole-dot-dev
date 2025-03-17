@@ -15,9 +15,3 @@ This section is dedicated to recording my job progress. In an effort to make thi
 | 03/17/2025   | Sophilabs        | Junior Python/Django Developer | https://shorturl.at/GIFuo                                           | Applied |          |       |           |            |
 | 03/17/2025   | Sophilabs        | Junior Python Developer        | https://shorturl.at/cpbxU                                           | Applied |          |       |           |            |
 | 03/15/2025   | Amplify Security | Mid Level Python Developer     | https://shorturl.at/0g9tW                                           | Applied |          |       |           |            |
-|              |                  |                                |                                                                     |         |          |       |           |            |
-|              |                  |                                |                                                                     |         |          |       |           |            |
-|              |                  |                                |                                                                     |         |          |       |           |            |
-|              |                  |                                |                                                                     |         |          |       |           |            |
-|              |                  |                                |                                                                     |         |          |       |           |            |
-|              |                  |                                |                                                                     |         |          |       |           |            |
