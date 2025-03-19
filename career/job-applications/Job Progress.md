@@ -1,5 +1,7 @@
 This section is dedicated to recording my job progress. In an effort to make this as simple and practical as I can I only included the essentials which are the Date Applied, Company, Position, Source, Status, Result, Notes, Follow-Up, Easy Apply, Outcome Date and Application Source. 
 
+Google Sheets Link: https://shorturl.at/Hwdyw
+
 | Date Applied | Company          | Position                       | Source                                                               | Status   | Result   | Notes                                                                            | Follow-Up | Easy Apply | Outcome Date | Application Source | Cover Letter Sent |
 | ------------ | ---------------- | ------------------------------ | -------------------------------------------------------------------- | -------- | -------- | -------------------------------------------------------------------------------- | --------- | ---------- | ------------ | ------------------ | ----------------- |
 | 03/19/2025   | Fujitsu          | Computer Programmer            | https://shorturl.at/9MA5m                                            | Applied  |          | Job description was somewhat vague. Due to this I did not attach a cover letter. |           | No         |              | Company Website    | No                |
