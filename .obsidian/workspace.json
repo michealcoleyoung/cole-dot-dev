@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf4e53534b5fb3b1",
+            "id": "65fa8e8a2005d904",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "9a61f621e095b985",
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,25 +174,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf4e53534b5fb3b1",
+  "active": "3e43925d608a7c60",
   "lastOpenFiles": [
     "README.md",
     "career/job-applications/Job Progress.md",
+    "Recruiter Meeting 03-29-2025.md",
     "ascmii/project-description.md",
-    "cornell-quick-notes/project-description.md",
-    "cornell-quick-notes/TODO.md",
-    "career/job-applications/Strategy.md",
-    "career/job-applications",
+    "career/job-applications/strategy.md",
+    "career/ideas",
     "career",
-    "images/cole-dot-dev.png",
-    "images/cole-dot-dev.png",
-    "Images/test-canvas.png",
-    "Untitled.canvas",
+    "career/job-applications",
+    "ascmii",
+    "Images/cole-dot-dev.png",
     "Images/coles-code-garden.png",
     "Images/coles-code-garden.svg",
-    "ascmii",
-    "conflict-files-obsidian-git.md",
-    "images",
+    "coles-code-garden.png",
+    "Images",
+    "cornell-quick-notes/TODO.md",
+    "cornell-quick-notes/project-description.md",
     "cornell-quick-notes"
   ]
 }
