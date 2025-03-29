@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9a61f621e095b985",
@@ -175,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf4e53534b5fb3b1",
+  "active": "1accfc7b734264de",
   "lastOpenFiles": [
     "README.md",
     "career/job-applications/Job Progress.md",
