@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "career/job-applications/job-progress.md",
+                "file": "ascmii/project-description.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "job-progress"
+              "title": "project-description"
             }
           }
         ]
@@ -174,11 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1accfc7b734264de",
+  "active": "cf4e53534b5fb3b1",
   "lastOpenFiles": [
+    "career/job-applications/job-progress.md",
     "README.md",
     "career/job-applications/Job Progress.md",
-    "career/job-applications/job-progress.md",
     "ascmii/project-description.md",
     "cornell-quick-notes/project-description.md",
     "cornell-quick-notes/TODO.md",
