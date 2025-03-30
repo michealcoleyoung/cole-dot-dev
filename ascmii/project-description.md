@@ -2,11 +2,11 @@
 
 
 ## Feature TODO
-- [ ] Create convert_to_ascii function
+- [x] Create convert_to_ascii function
 - [ ] Create convert_to_html function
 - [ ] Create convert_to_file function
 - [ ] Add docstring
-- [ ] Get basic commands working like the basic conversion and width
+- [x] Get basic commands working like the basic conversion and width
 - [ ] Test functionality of the installed library in terminal to make sure the ascmii commands work
 
 ## Installation
