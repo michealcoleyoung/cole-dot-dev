@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf4e53534b5fb3b1",
+            "id": "65fa8e8a2005d904",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gtk/GTK.md",
+                "file": "career/job-applications/job-progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GTK"
+              "title": "job-progress"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9a61f621e095b985",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gtk/GTK.md",
+                "file": "cornell-quick-notes/project-description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GTK"
+              "title": "Backlinks for project-description"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gtk/GTK.md",
+                "file": "cornell-quick-notes/project-description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GTK"
+              "title": "Outgoing links from project-description"
             }
           },
           {
@@ -161,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,33 +175,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf4e53534b5fb3b1",
+  "active": "1accfc7b734264de",
   "lastOpenFiles": [
-    "career/job-applications/Strategy.md",
-    "gtk/GTK.md",
+    "projects/cornell-quick-notes/project-description.md",
+    "projects/cornell-quick-notes/TODO.md",
+    "projects/ascmii/project-description.md",
+    "projects/cornell-quick-notes",
+    "projects/ascmii",
+    "projects",
     "gtk/Flask/livereload.md",
-    "career/job-applications/job-progress.md",
-    "gtk/Flask/images",
+    "gtk/GTK.md",
     "gtk/Flask",
     "gtk",
+    "career/job-applications/Strategy.md",
+    "career/job-applications/strategy.md",
+    "career/job-applications/job-progress.md",
     "README.md",
-    "projects",
-    "blog",
-    "projects/ascmii/project-description.md",
-    "projects/cornell-quick-notes/TODO.md",
-    "projects/cornell-quick-notes/project-description.md",
-    "career/job-applications/Job Progress.md",
-    "career/job-applications",
+    "Recruiter Meeting 03-29-2025.md",
+    "ascmii/project-description.md",
+    "career/ideas",
     "career",
-    "images/cole-dot-dev.png",
-    "images/cole-dot-dev.png",
-    "Images/test-canvas.png",
-    "Untitled.canvas",
+    "career/job-applications",
+    "ascmii",
+    "Images/cole-dot-dev.png",
     "Images/coles-code-garden.png",
     "Images/coles-code-garden.svg",
-    "projects/ascmii",
-    "conflict-files-obsidian-git.md",
-    "images",
-    "projects/cornell-quick-notes"
+    "coles-code-garden.png",
+    "Images",
+    "cornell-quick-notes/TODO.md",
+    "cornell-quick-notes/project-description.md"
   ]
 }
