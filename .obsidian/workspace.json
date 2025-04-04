@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gtk/Flask/livereload.md",
+                "file": "gtk/GTK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "livereload"
+              "title": "GTK"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gtk/Flask/livereload.md",
+                "file": "gtk/GTK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for livereload"
+              "title": "Backlinks for GTK"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gtk/Flask/livereload.md",
+                "file": "gtk/GTK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from livereload"
+              "title": "Outgoing links from GTK"
             }
           },
           {
@@ -176,12 +176,13 @@
   },
   "active": "cf4e53534b5fb3b1",
   "lastOpenFiles": [
-    "career/job-applications/job-progress.md",
+    "career/job-applications/Strategy.md",
+    "gtk/GTK.md",
     "gtk/Flask/livereload.md",
+    "career/job-applications/job-progress.md",
     "gtk/Flask/images",
     "gtk/Flask",
     "gtk",
-    "career/job-applications/Strategy.md",
     "README.md",
     "projects",
     "blog",
