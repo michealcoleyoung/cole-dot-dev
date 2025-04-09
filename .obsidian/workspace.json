@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 215.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65fa8e8a2005d904",
+  "active": "1accfc7b734264de",
   "lastOpenFiles": [
     "gtk/Flask/livereload.md",
     "gtk/GTK.md",
