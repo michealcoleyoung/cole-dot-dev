@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +177,6 @@
   },
   "active": "1accfc7b734264de",
   "lastOpenFiles": [
-    "README.md",
-    "career/job-applications/job-progress.md",
-    "gtk/Flask/livereload.md",
-    "gtk/GTK.md",
     "LICENSE.md",
     "projects/cornell-quick-notes/project-description.md",
     "projects/cornell-quick-notes/TODO.md",
@@ -188,10 +184,14 @@
     "projects/cornell-quick-notes",
     "projects/ascmii",
     "projects",
+    "gtk/Flask/livereload.md",
+    "gtk/GTK.md",
     "gtk/Flask",
     "gtk",
     "career/job-applications/Strategy.md",
     "career/job-applications/strategy.md",
+    "career/job-applications/job-progress.md",
+    "README.md",
     "Recruiter Meeting 03-29-2025.md",
     "ascmii/project-description.md",
     "career/ideas",
