@@ -92,6 +92,23 @@ Add functionality to:
 
 - [ ] Better mobile responsiveness
 
+### Export Function
+
+
+Markdown Format:
+# {Topic}
+
+Class: {class_name}
+Date: {date}
+
+## Main Points
+{main_points_content}
+## Notes
+{notes_content}
+
+## Summary
+{summary_content}
+
 # Considerations
 Main points section will need to be configured as a bulleted list. Since this is a concise section in the Cornell Note Taking method I am thinking it would be good to set it to conenteditable so when the user types in a main key point and then they press enter it goes to the next bullet. The amount of main points the user can add will depend on what device they are on in terms of space that is available. The 3 main sections of this app that will have limited space in terms of what the user types will be in Main Points, Notes and Summary. Just like it would be if you were writing this information in a notebook. 
 
