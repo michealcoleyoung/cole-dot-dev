@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/rust-guard.md",
+                "file": "projects/rust-guard/rust-guard.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,10 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65fa8e8a2005d904",
+  "active": "3e43925d608a7c60",
   "lastOpenFiles": [
+    "projects/rust-guard",
     "projects/cornell-quick-notes/project-description.md",
-    "projects/rust-guard.md",
+    "projects/rust-guard/rust-guard.md",
     "career/job-applications/job-progress.md",
     "projects/cornell-quick-notes/TODO.md",
     "README.md",
