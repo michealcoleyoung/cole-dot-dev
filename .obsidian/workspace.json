@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/rust-guard/rust-guard.md",
+                "file": "career/job-applications/job-progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rust-guard"
+              "title": "job-progress"
             }
           }
         ]
@@ -174,12 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e43925d608a7c60",
+  "active": "65fa8e8a2005d904",
   "lastOpenFiles": [
+    "career/job-applications/Strategy.md",
+    "career/job-applications/job-progress.md",
+    "projects/rust-guard/rust-guard.md",
     "projects/rust-guard",
     "projects/cornell-quick-notes/project-description.md",
-    "projects/rust-guard/rust-guard.md",
-    "career/job-applications/job-progress.md",
     "projects/cornell-quick-notes/TODO.md",
     "README.md",
     "projects/ascmii/TODO.md",
@@ -194,14 +195,12 @@
     "gtk/Flask/livereload.md",
     "gtk/Flask",
     "gtk",
-    "career/job-applications/Strategy.md",
     "career/job-applications/strategy.md",
     "Recruiter Meeting 03-29-2025.md",
     "ascmii/project-description.md",
     "career/ideas",
     "career",
     "career/job-applications",
-    "ascmii",
     "Images/cole-dot-dev.png",
     "Images/coles-code-garden.png",
     "Images/coles-code-garden.svg",
