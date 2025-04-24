@@ -1,2 +1,1 @@
-## Easy Apply
-Sometimes this option is unavoidable based on the lack of dedicated career sections within a companies website so with that being said my goal is to try and maintain at least an 80/20 ratio for my applications. The 80% will be designated for full applications and the 20% will be designated for Easy Apply.  
+## Current Landscape Considerations
