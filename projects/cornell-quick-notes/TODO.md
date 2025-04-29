@@ -66,7 +66,7 @@ Add functionality to:
 
 - [x] Show a "Saving..." indicator when changes are being saved
 
-- [ ] Add success/error notifications
+- [x] Add success/error notifications
 
 ### Form Field Management
 
