@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/rust-guard/rust-guard.md",
+                "file": "configs/helix/config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rust-guard"
+              "title": "config"
             }
           }
         ]
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 215.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,32 +176,34 @@
   },
   "active": "65fa8e8a2005d904",
   "lastOpenFiles": [
+    "configs/tmux/config.md",
+    "configs/helix/config.md",
+    "configs/helix",
+    "blog/Untitled.md",
+    "configs/tmux",
+    "configs",
     "projects/cornell-quick-notes/TODO.md",
-    "career/job-applications/job-progress.md",
-    "career/job-applications/Strategy.md",
+    "blog",
     "projects/rust-guard/rust-guard.md",
-    "LICENSE.md",
-    "README.md",
-    "Untitled.md",
-    "gtk/Flask/livereload.md",
-    "projects/cornell-quick-notes/project-description.md",
     "projects/rust-guard",
     "projects/ascmii/TODO.md",
-    "projects/ascmii/project-description.md",
     "gtk/git/Removing Commits Locally.md",
-    "gtk/GTK.md",
     "gtk/git",
+    "projects/cornell-quick-notes/project-description.md",
+    "career/job-applications/job-progress.md",
+    "README.md",
+    "gtk/Flask/livereload.md",
+    "gtk/GTK.md",
+    "LICENSE.md",
+    "projects/ascmii/project-description.md",
     "projects/cornell-quick-notes",
     "projects/ascmii",
     "projects",
     "gtk/Flask",
-    "gtk",
+    "career/job-applications/Strategy.md",
     "career/job-applications/strategy.md",
     "Recruiter Meeting 03-29-2025.md",
     "ascmii/project-description.md",
-    "career/ideas",
-    "career",
-    "career/job-applications",
     "Images/cole-dot-dev.png",
     "Images/coles-code-garden.png",
     "Images/coles-code-garden.svg",
