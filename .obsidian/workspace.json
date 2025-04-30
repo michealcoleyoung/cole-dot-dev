@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "configs/helix/config.md",
+                "file": "configs/tmux/config.md",
                 "mode": "source",
                 "source": false
               },
@@ -176,8 +176,8 @@
   },
   "active": "65fa8e8a2005d904",
   "lastOpenFiles": [
-    "configs/tmux/config.md",
     "configs/helix/config.md",
+    "configs/tmux/config.md",
     "configs/helix",
     "blog/Untitled.md",
     "configs/tmux",
