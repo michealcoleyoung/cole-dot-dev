@@ -58,6 +58,19 @@ password-manager/
 
 You can break this down even further as the project grows, but this should keep things nicely modular.
 
+## 🧱 Updated File Structure
+
+```bash
+password-manager/
+├── Cargo.toml
+└── src/
+    ├── main.rs         # Entry point, UI logic
+    ├── ui.rs           # Terminal UI logic
+    ├── commands.rs     # Handle CLI commands
+    ├── storage.rs      # Load/save encrypted data
+    └── models.rs       # Data structures (e.g., Entry, Vault)
+```
+
 ---
 
 ## 📚 Recommended Libraries
