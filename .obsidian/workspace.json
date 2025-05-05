@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95651e3e61ff2049",
+        "id": "f3a51d70152f43ff",
         "type": "tabs",
         "children": [
           {
-            "id": "65fa8e8a2005d904",
+            "id": "e9e2eabde39014bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/rust-guard/rust-guard.md",
+                "file": "projects/rust-guard/RustGuard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rust-guard"
+              "title": "RustGuard"
             }
           }
         ]
@@ -174,35 +174,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65fa8e8a2005d904",
+  "active": "e9e2eabde39014bb",
   "lastOpenFiles": [
-    "blog/05-02-2025.md",
-    "projects/rust-guard/rust-guard.md",
-    "configs/helix/config.md",
-    "gtk/Flask/LiveReload.md",
-    "career/job-applications/job-progress.md",
     "configs/tmux/config.md",
+    "configs/helix/config.md",
+    "career/job-applications/Strategy.md",
+    "blog/05-02-2025.md",
+    "projects/rust-guard/RustGuard.md",
+    "gtk/Flask/LiveReload.md",
     "configs/tmux",
     "configs/helix",
     "configs",
-    "blog",
+    "blog/Untitled.md",
+    "projects/cornell-quick-notes/TODO.md",
+    "career/job-applications/job-progress.md",
+    "LICENSE.md",
+    "README.md",
+    "Untitled.md",
+    "gtk/Flask/livereload.md",
+    "projects/cornell-quick-notes/project-description.md",
     "projects/rust-guard",
     "projects/ascmii/TODO.md",
-    "gtk/git/Removing Commits Locally.md",
-    "gtk/git",
-    "leetcode",
-    "neetcode",
-    "LICENSE.md",
-    "projects/cornell-quick-notes/project-description.md",
-    "projects/cornell-quick-notes/TODO.md",
     "projects/ascmii/project-description.md",
+    "gtk/git/Removing Commits Locally.md",
+    "gtk/GTK.md",
+    "gtk/git",
     "projects/cornell-quick-notes",
     "projects/ascmii",
-    "gtk/Flask/livereload.md",
-    "gtk/GTK.md",
-    "career/job-applications/Strategy.md",
+    "projects",
+    "gtk/Flask",
+    "gtk",
     "career/job-applications/strategy.md",
-    "README.md",
     "Recruiter Meeting 03-29-2025.md",
     "ascmii/project-description.md",
     "Images/cole-dot-dev.png",
