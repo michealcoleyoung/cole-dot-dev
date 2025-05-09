@@ -1,5 +1,5 @@
 ```bash
-theme = "gruvbox_dark_hard"
+theme = "gruvbox_light_hard"
 
 [editor]
 line-number = "relative"
@@ -23,5 +23,13 @@ focus-lost = true
 after-delay.enable = true
 
 # Time in milliseconds since last edit before auto save timer triggers.
-after-delay.timeout = 1000
+after-delay.timeout = 3000
+
+# Settings to get around autosaving not working
+[keys.insert]
+"C-s" = ":w"
+
+[keys.normal]
+"C-s" = ":w"
+
 ```
