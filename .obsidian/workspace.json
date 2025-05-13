@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "configs/alacritty/config.md",
-                "mode": "source",
+                "file": "gtk/bash/Scaling Apps In Linux To Reasonable Size.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "config"
+              "title": "Scaling Apps In Linux To Reasonable Size"
             }
           }
         ]
@@ -176,17 +176,19 @@
   },
   "active": "65fa8e8a2005d904",
   "lastOpenFiles": [
-    "configs/helix/config.md",
-    "configs/alacritty/config.md",
-    "configs/alacritty",
-    "projects/rust-guard/RustGuard.md",
+    "gtk/GTK.md",
+    "gtk/bash/Scaling Apps In Linux To Reasonable Size.md",
     "podcast/episodes.md",
+    "gtk/bash",
+    "projects/rust-guard/RustGuard.md",
+    "configs/alacritty/config.md",
+    "configs/helix/config.md",
+    "configs/alacritty",
     "career/job-applications/Strategy.md",
     "podcast",
     "career/job-applications/job-progress.md",
     "Images/cole-dot-dev.png",
     "blog/Untitled.md",
-    "gtk/GTK.md",
     "gtk/Flask/LiveReload.md",
     "gtk/git/Removing Commits Locally.md",
     "configs/tmux/config.md",
@@ -204,7 +206,6 @@
     "LICENSE.md",
     "projects/ascmii/project-description.md",
     "projects/cornell-quick-notes",
-    "projects/ascmii",
     "career/job-applications/strategy.md",
     "Recruiter Meeting 03-29-2025.md",
     "ascmii/project-description.md",
