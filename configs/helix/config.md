@@ -1,3 +1,4 @@
+#### config.toml
 ```bash
 theme = "gruvbox_light_hard"
 
@@ -31,5 +32,33 @@ after-delay.timeout = 3000
 
 [keys.normal]
 "C-s" = ":w"
+```
 
+#### languages.toml
+```bash
+[[language]]
+name = "rust"
+language-servers = ["rust-analyzer"]
+
+[[language]]
+name = "python"
+language-servers = ["pylsp"]
+
+[[language]]
+name = "typescript"
+language-servers = ["typescript-language-server"]
+
+
+[[language]]
+name = "javascript"
+language-servers = ["typescript-language-server"]
+
+
+[[language]]
+name = "html"
+language-servers = ["vscode-html-language-server"]
+
+[[language]]
+name = "css"
+language-servers = ["vscode-css-language-server"]
 ```
