@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/rust-guard/project-blog/5-23-2025.md",
+                "file": "projects/streampost-cli/project-description.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-23-2025"
+              "title": "project-description"
             }
           }
         ]
@@ -176,8 +176,11 @@
   },
   "active": "65fa8e8a2005d904",
   "lastOpenFiles": [
-    "projects/rust-guard/RustGuard.md",
+    "projects/rust-guard/project-description.md",
+    "projects/streampost-cli/project-description.md",
+    "projects/streampost/Untitled.md",
     "projects/rust-guard/project-blog/5-23-2025.md",
+    "projects/streampost-cli",
     "projects/rust-guard/project-blog",
     "podcast/episodes.md",
     "blog/05-02-2025.md",
@@ -203,7 +206,6 @@
     "projects/rust-guard/rust-guard.md",
     "projects/rust-guard",
     "projects/ascmii/TODO.md",
-    "gtk/git",
     "projects/cornell-quick-notes/project-description.md",
     "README.md",
     "LICENSE.md",
@@ -213,8 +215,6 @@
     "ascmii/project-description.md",
     "Images/coles-code-garden.png",
     "Images/coles-code-garden.svg",
-    "coles-code-garden.png",
-    "cornell-quick-notes/TODO.md",
-    "cornell-quick-notes/project-description.md"
+    "coles-code-garden.png"
   ]
 }

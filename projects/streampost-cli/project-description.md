@@ -1,0 +1,1 @@
+streampost-cli is an automated social media posting solution powered by Playwright. The user provides a list of social media content information preferably form an excel file that will scan and make posts accordingly.  
