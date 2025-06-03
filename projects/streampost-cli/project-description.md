@@ -30,3 +30,32 @@ Scheduled_Date: Date for scheduled posting (YYYY-MM-DD).
 Post_Status: Status of the post (e.g., "Pending", "Posted Successful", "Failed").
 
 For each platform like LinkedIn, Facebook etc. these will be contained within a dedicated sheet by the same name. That way each platform has it's own way of functioning limiting errors.
+
+
+#### Spreadsheet Control Flow
+```bash
+START PROGRAM
+
+  GET CURRENT DATE
+
+  LOAD SPREADSHEET
+
+  FOR EACH ROW in the SHEET:
+    GET SCHEDULED DATE from the row
+    GET POST STATUS from the row
+
+    IF SCHEDULED DATE is EQUAL TO CURRENT DATE:
+      IF POST STATUS is BLANK or "Pending":
+        GET POST CONTENT, HASHTAGS, IMAGE, LINK from the row
+
+        ATTEMPT TO POST to LinkedIn (using Playwright)
+
+        IF POSTING WAS SUCCESSFUL:
+          UPDATE POST STATUS in the spreadsheet to "Success"
+        ELSE:
+          UPDATE POST STATUS in the spreadsheet to "Fail"
+
+  SAVE CHANGES TO SPREADSHEET
+
+END PROGRAM
+```
