@@ -3,20 +3,21 @@ streampost-cli is an automated social media posting solution powered by Playwrig
 #### File Structure
 ```
 streampost/
+├── venv/                   ← Virtual Environment (Python environment isolation)
 ├── data/
-├── venv/
-│   ├── posts.xlsx
-├── images/
+│   ├── posts.xlsx          ← Spreadsheet containing post data per platform sheet
+├── images/                 ← Folder containing images for posts
 ├── src/
-│   ├── main.py
-│   ├── playwright_utils.py
-│   ├── platform_handlers/
-│   │   ├── twitter_handler.py
-│   │   ├── facebook_handler.py
-│   │   └── linkedin_handler.py
-│   └── config.py
-├── requirements.txt
-└── README.md
+│   ├── main.py             ← Entry point; orchestrates the workflow
+│   ├── config.py           ← Configuration settings (creds, paths, etc.)
+│   ├── spreadsheet_utils.py← Utility functions for reading/writing Excel
+│   ├── playwright_utils.py ← Shared Playwright logic (login, upload, etc.)
+│   └── platform_handlers/
+│       ├── twitter_handler.py
+│       ├── facebook_handler.py
+│       └── linkedin_handler.py
+├── requirements.txt        ← Python dependencies for the project
+└── README.md               ← Project overview and usage instructions
 ```
 
 
