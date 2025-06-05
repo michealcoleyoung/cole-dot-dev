@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/rustguard/project-blog/6-3-2025.md",
+                "file": "projects/streampost-cli/project-description.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6-3-2025"
+              "title": "project-description"
             }
           }
         ]
@@ -176,8 +176,9 @@
   },
   "active": "65fa8e8a2005d904",
   "lastOpenFiles": [
-    "projects/rustguard/project-blog/5-23-2025.md",
+    "LICENSE.md",
     "projects/rustguard/project-blog/6-3-2025.md",
+    "projects/rustguard/project-blog/5-23-2025.md",
     "gtk/git/Removing Commits Locally.md",
     "gtk/GTK.md",
     "projects/rustguard/project-description.md",
@@ -209,7 +210,6 @@
     "projects/ascmii/TODO.md",
     "projects/cornell-quick-notes/project-description.md",
     "README.md",
-    "LICENSE.md",
     "projects/ascmii/project-description.md",
     "career/job-applications/strategy.md",
     "Recruiter Meeting 03-29-2025.md",

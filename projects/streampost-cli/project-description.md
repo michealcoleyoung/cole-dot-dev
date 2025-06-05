@@ -4,8 +4,8 @@ streampost-cli is an automated social media posting solution powered by Playwrig
 ```
 streampost/
 ├── data/
+├── venv/
 │   ├── posts.xlsx
-│   └── posted_items.txt
 ├── images/
 ├── src/
 │   ├── main.py
