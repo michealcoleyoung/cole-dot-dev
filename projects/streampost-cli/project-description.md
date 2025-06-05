@@ -54,7 +54,7 @@ START PROGRAM
         IF POSTING WAS SUCCESSFUL:
           UPDATE POST STATUS in the spreadsheet to "Success"
         ELSE:
-          UPDATE POST STATUS in the spreadsheet to "Fail"
+          UPDATE POST STATUS in the spreadsheet to "Failed"
 
   SAVE CHANGES TO SPREADSHEET
 
