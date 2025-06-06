@@ -60,3 +60,7 @@ START PROGRAM
 
 END PROGRAM
 ```
+
+
+#### Extra Feature Ideas
+You might try to see if there is a way to stop the automation once the post is successful to reserve resources and of course make sure that it picks back up the next day.
