@@ -11,14 +11,12 @@
             "id": "65fa8e8a2005d904",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "projects/rustguard/project-description.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/coledotdev.svg"
               },
-              "icon": "lucide-file",
-              "title": "project-description"
+              "icon": "lucide-image",
+              "title": "coledotdev"
             }
           }
         ]
@@ -176,6 +174,8 @@
   },
   "active": "65fa8e8a2005d904",
   "lastOpenFiles": [
+    "projects/rustguard/project-description.md",
+    "Images/coledotdev.svg",
     "gtk/GTK.md",
     "career/job-applications/strategy.md",
     "career/job-applications/job-progress.md",
@@ -189,7 +189,6 @@
     "projects/streampost-cli/project-blog",
     "LICENSE.md",
     "gtk/git/Removing Commits Locally.md",
-    "projects/rustguard/project-description.md",
     "gtk/bash/Scaling Apps In Linux To Reasonable Size.md",
     "configs/tmux/config.md",
     "configs/helix/config.md",
