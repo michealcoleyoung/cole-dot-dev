@@ -11,12 +11,14 @@
             "id": "65fa8e8a2005d904",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/coledotdev.svg"
+                "file": "gtk/Flask/LiveReload.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "coledotdev"
+              "icon": "lucide-file",
+              "title": "LiveReload"
             }
           }
         ]
@@ -174,9 +176,11 @@
   },
   "active": "65fa8e8a2005d904",
   "lastOpenFiles": [
-    "projects/rustguard/project-description.md",
-    "Images/coledotdev.svg",
+    "gtk/proxmox/Proxmox Jellyfin Synology Configuration.md",
     "gtk/GTK.md",
+    "Images/coledotdev.svg",
+    "gtk/proxmox",
+    "projects/rustguard/project-description.md",
     "career/job-applications/strategy.md",
     "career/job-applications/job-progress.md",
     "projects/cornell-quick-notes/TODO.md",
@@ -207,7 +211,6 @@
     "configs/helix",
     "configs/tmux",
     "configs",
-    "blog",
     "projects/rust-guard/rust-guard.md",
     "projects/cornell-quick-notes/project-description.md",
     "README.md",
