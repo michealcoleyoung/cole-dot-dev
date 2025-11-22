@@ -1,4 +1,4 @@
-![Cole's Code Garden](Images/cole-dot-dev.png)
+![Cole Dot Dev](Images/cole-dot-dev.png)
 YouTube: https://www.youtube.com/@cole-dot-dev <br>
 LinkedIn: https://www.linkedin.com/in/michealcoleyoung/ <br>
 Spotify: https://shorturl.at/UBBoN
